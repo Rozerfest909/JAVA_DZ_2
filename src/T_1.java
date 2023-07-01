@@ -9,7 +9,7 @@ import java.util.Map;
 //        Параметры для фильтрации:
 //        {"name":"Ivanov", "country":"Russia", "city":"Moscow", "age":"null"} select * from students where 'name=Ivanov' and 'country=Russia' and...
 //
-public class Main {
+public class T_1 {
     public static void main(String[] args) {
         T_01();
     }
